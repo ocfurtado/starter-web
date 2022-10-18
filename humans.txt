@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Omar Furtado furtado@git.training @ocfurtadi_
 
 # THANKS
 
